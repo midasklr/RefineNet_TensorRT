@@ -1,4 +1,9 @@
 # RefineNet_TensorRT
+
+## update20210427
+recommend DDRNet whice achieve 334 FPS with TensorRT-FP16
+https://github.com/midasklr/DDRNet.TensorRT
+
 TensorRT for RefineNet Segmentation.
 
 This is TensorRT C++ project for [RefineNet](https://github.com/midasklr/RefineNet). See details for how to train refinenet for semantic segmentation and export onnx model.
